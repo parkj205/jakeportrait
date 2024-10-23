@@ -1,0 +1,204 @@
+.body{
+background-color: rgb(255, 255, 255);
+}
+
+.face{
+background-color: rgba(255, 206, 150, 0.984);
+border-radius: 100px;
+width: 100px;
+height: 130px;
+margin-left: 300px;
+margin-top: 320px;
+position: absolute;
+z-index: 2;
+}
+
+.hair{
+    background-color: rgba(53, 28, 0, 0.984);
+    border-radius: 100px;
+    width: 120px;
+    height: 170px;
+    margin-left: 290px;
+    margin-top: 300px; 
+    position: absolute;
+    z-index: 1;
+
+}
+
+.hair2{
+    background-color: rgba(53, 28, 0, 0.984);
+    border-radius: 400px;
+    width: 70px;
+    height: 70px;
+    margin-left:315px;
+    margin-top: 410px; 
+    position: absolute;
+    z-index: 3;
+
+}
+
+.mouth{
+    background-color: rgba(255, 206, 150, 0.984);
+    border-radius: 400px;
+    width: 50px;
+    height: 40px;
+    margin-left:325px;
+    margin-top: 420px; 
+    position: absolute;
+    z-index: 3;
+
+}
+
+.mouth2{
+    background-color: black;
+    width: 35px;
+    height: 5px;
+    margin-left:332px;
+    margin-top: 430px;
+    position: absolute;
+    z-index: 4;
+}
+
+.eye1{
+    background-color: black;
+    width: 5px;
+    height: 5px;
+    margin-left:330px;
+    margin-top: 375px;
+    position: absolute;
+    z-index: 4;
+}
+
+.eye2{
+    background-color: black;
+    width: 5px;
+    height: 5px;
+    margin-left:370px;
+    margin-top: 375px;
+    position: absolute;
+    z-index: 4;
+}
+
+.brow1{
+    background-color: rgba(53, 28, 0, 0.984);
+    width: 15px;
+    height: 5px;
+    margin-left:365px;
+    margin-top: 365px;
+    position: absolute;
+    z-index: 4;
+}
+
+.brow2{
+    background-color: rgba(53, 28, 0, 0.984);
+    width: 15px;
+    height: 5px;
+    margin-left:325px;
+    margin-top: 365px;
+    position: absolute;
+    z-index: 4;
+}
+
+.nose{
+    background-color: rgba(233, 174, 106, 0.984);
+    width: 10px;
+    height: 26px;
+    margin-left:344px;
+    margin-top: 375px;
+    position: absolute;
+    z-index: 4;
+}
+
+.nose2{
+    background-color: rgba(233, 174, 106, 0.984);
+    width: 20px;
+    height: 10px;
+    margin-left:339px;
+    margin-top: 395px;
+    position: absolute;
+    z-index: 4;
+}
+
+.earl{
+    background-color: rgba(255, 206, 150, 0.984);
+    border-radius: 400px;
+    width: 50px;
+    height: 40px;
+    margin-left:270px;
+    margin-top: 370px; 
+    position: absolute;
+    z-index: 0;
+
+}
+
+.earr{
+    background-color: rgba(255, 206, 150, 0.984);
+    border-radius: 400px;
+    width: 50px;
+    height: 40px;
+    margin-left:380px;
+    margin-top: 370px; 
+    position: absolute;
+    z-index: 0;
+
+}
+
+.tophair{
+    background-color: rgba(53, 28, 0, 0.984);
+    border-radius: 100px;
+    width: 120px;
+    height: 50px;
+    margin-left: 290px;
+    margin-top: 300px; 
+    position: absolute;
+    z-index: 1;
+
+}
+
+.tophair2{
+    background-color: rgba(53, 28, 0, 0.984);
+    border-radius: 150px;
+    width: 60px;
+    height: 20px;
+    margin-left: 320px;
+    margin-top: 320px; 
+    position: absolute;
+    z-index: 3;
+
+}
+
+.neck{
+    background-color: rgba(255, 206, 150, 0.984);
+    border-radius: 400px;
+    width: 50px;
+    height: 100px;
+    margin-left:325px;
+    margin-top: 420px; 
+    position: absolute;
+    z-index: 1;
+
+}
+
+.neckshadow{
+    background-color: rgba(216, 168, 114, 0.984);
+    border-radius: 15px;
+    width: 50px;
+    height: 70px;
+    margin-left:325px;
+    margin-top: 420px; 
+    position: absolute;
+    z-index: 1;
+
+}
+
+.shirt{
+    background-color: rgba(0, 0, 0, 0.984);
+    border-radius: 30px;
+    width: 150px;
+    height: 80px;
+    margin-left:276px;
+    margin-top: 480px; 
+    position: absolute;
+    z-index: 0;
+
+}
